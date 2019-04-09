@@ -1,5 +1,5 @@
 # Beep
-
+一个做音频操作的小工具，用来播放音乐
 A small package that brings sound to any Go program (and real-time audio processing and other casual stuff)
 
 ```
